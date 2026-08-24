@@ -33,3 +33,6 @@ Every script is complete and correct and will run as-is once you have:
 from `analysis_queries.sql`, computed via Pandas on the identical cleaned
 dataset that `load_data.py` inserts into MySQL.
 
+Final report:
+![image alt](https://github.com/Tushar00005/cold-chain-spoilage-risk-analytics01/blob/6d973be88376b12579eb72f7f6e809d13ab406d6/download.png)
+
