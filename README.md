@@ -47,3 +47,7 @@ spoilage risk mix:
 Estimated financial loss by product category:
 
 ![image_alt](https://github.com/Tushar00005/cold-chain-spoilage-risk-analytics01/blob/b6a71d9aefda236db510df6c37c4070be28517df/download%20(2).png)
+
+
+[view Business Insights Report](Business_Insights_Report.md]
+
