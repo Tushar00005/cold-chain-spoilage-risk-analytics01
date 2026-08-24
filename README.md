@@ -33,10 +33,3 @@ Every script is complete and correct and will run as-is once you have:
 from `analysis_queries.sql`, computed via Pandas on the identical cleaned
 dataset that `load_data.py` inserts into MySQL.
 
-## Headline result
-
-Across 1,500 shipments: **64.7%** temperature compliance, **50.3%** of
-shipments in High/Critical spoilage risk, and **$1,439,268.81** in total
-estimated financial loss — with delayed shipments roughly **2x** as likely
-to be high-risk as on-time ones. See `7_Business_Insights/Business_Insights_Report.docx`
-for the full write-up.
