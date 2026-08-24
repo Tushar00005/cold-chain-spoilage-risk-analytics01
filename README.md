@@ -33,7 +33,7 @@ Every script is complete and correct and will run as-is once you have:
 from `analysis_queries.sql`, computed via Pandas on the identical cleaned
 dataset that `load_data.py` inserts into MySQL.
 
-Shipments and loss by month
+Shipments and loss by month:
 
 
 ![image alt](https://github.com/Tushar00005/cold-chain-spoilage-risk-analytics01/blob/6d973be88376b12579eb72f7f6e809d13ab406d6/download.png)
@@ -42,3 +42,8 @@ Shipments and loss by month
 spoilage risk mix:
 
 ![image_alt](https://github.com/Tushar00005/cold-chain-spoilage-risk-analytics01/blob/f62970e02bf1772061e897263a31111e3d0b53a6/download%20(1).png)
+
+
+Estimated financial loss by product category:
+
+![image_alt](https://github.com/Tushar00005/cold-chain-spoilage-risk-analytics01/blob/b6a71d9aefda236db510df6c37c4070be28517df/download%20(2).png)
