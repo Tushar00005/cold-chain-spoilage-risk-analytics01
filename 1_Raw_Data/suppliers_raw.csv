@@ -1,0 +1,11 @@
+supplier_id,supplier_name,supplier_country,supplier_rating,contract_start_year
+S001,Fresh Valley Farms,India,5.0,2019
+S002,Arctic Ocean Seafoods,Mexico,5.0,
+S003,Green Pasture Dairy,Vietnam,,2019
+S004,Prime Cut Meats Co,Vietnam,5.0,2021
+S005,Sunrise Produce Ltd,Canada,5.0,2019
+S006,Coastal Catch Exports,Netherlands,3.0,2019
+S007,Highland Dairy Group,Canada,2.0,
+S008,Meadow Fresh Supplies,India,4.0,2020
+S009,BlueFin Seafood Traders,Canada,3.0,2018
+S010,Golden Harvest Farms,Vietnam,3.0,2019

@@ -1,0 +1,29 @@
+route_id,origin,destination,distance_km,transport_mode
+R001,"Chicago, USA","Vancouver, Canada",2921,Reefer Truck
+R002,"Chicago, USA","Dallas, USA",1340,Reefer Truck
+R003,"Los Angeles, USA","Santiago, Chile",7968,Unknown
+R004,"Los Angeles, USA","Rotterdam, Netherlands",488,Refrigerated Truck
+R005,"New York, USA","Vancouver, Canada",4671,Air Cargo
+R006,"New York, USA","Los Angeles, USA",5108,Reefer Truck
+R007,"Toronto, Canada","New York, USA",7733,Refrigerated Truck
+R008,"Toronto, Canada","Atlanta, USA",4615,Unknown
+R009,"Mexico City, Mexico","Seattle, USA",3227,Unknown
+R010,"Mexico City, Mexico","Los Angeles, USA",5189,Unknown
+R011,"Rotterdam, Netherlands","Dallas, USA",3558,Reefer Ship
+R012,"Rotterdam, Netherlands","Mumbai, India",2946,Unknown
+R013,"Mumbai, India","Seattle, USA",8989,Refrigerated Truck
+R014,"Mumbai, India","Dallas, USA",5610,Reefer Truck
+R015,"Santiago, Chile","Chicago, USA",2132,Air Cargo
+R016,"Santiago, Chile","Seattle, USA",5338,Reefer Ship
+R017,"Ho Chi Minh City, Vietnam","Chicago, USA",4246,Unknown
+R018,"Ho Chi Minh City, Vietnam","Los Angeles, USA",1703,Reefer Truck
+R019,"Miami, USA","Los Angeles, USA",2360,Reefer Ship
+R020,"Miami, USA","Vancouver, Canada",8087,Unknown
+R021,"Dallas, USA","New York, USA",4642,Unknown
+R022,"Dallas, USA","Miami, USA",7232,Reefer Ship
+R023,"Vancouver, Canada","Ho Chi Minh City, Vietnam",3595,Air Cargo
+R024,"Vancouver, Canada","Mumbai, India",6418,Reefer Truck
+R025,"Atlanta, USA","Ho Chi Minh City, Vietnam",7697,Refrigerated Truck
+R026,"Atlanta, USA","Toronto, Canada",3981,Refrigerated Truck
+R027,"Seattle, USA","Rotterdam, Netherlands",644,Unknown
+R028,"Seattle, USA","Ho Chi Minh City, Vietnam",4070,Unknown

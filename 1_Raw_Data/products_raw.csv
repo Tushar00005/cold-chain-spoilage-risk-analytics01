@@ -1,0 +1,23 @@
+product_id,product_name,product_category,required_temp_min,required_temp_max,unit_cost,shelf_life_hours
+P001,Whole Milk 1L,dairy,2,4,16.53,72
+P002,Greek Yogurt,Dairy,2,4,6.75,240
+P003,Cheddar Cheese,Dairy,2,6,18.91,168
+P004,Butter Block,DAIRY,2,6,11.42,72
+P005,Fresh Chicken Breast,MEAT,0,4,13.38,240
+P006,Ground Beef,Meat,0,4,16.77,72
+P007,Pork Chops,Meat,0,4,12.06,48
+P008,Lamb Cuts,meat,0,4,19.33,96
+P009,Atlantic Salmon,Seafood,-1,2,8.03,96
+P010,Shrimp (Frozen),Seafood,-18,-15,3.9,96
+P011,Tuna Steaks,Seafood,-1,2,21.42,48
+P012,Strawberries,Fruits,0,4,18.65,120
+P013,Blueberries,Fruits,0,4,3.35,240
+P014,Bananas,Fruits,13,15,16.04,168
+P015,Grapes, Fruits ,0,4,6.02,72
+P016,Lettuce,Vegetables,0,4,19.67,72
+P017,Spinach,Vegetables,0,4,21.86,120
+P018,Broccoli,Vegetables,0,4,16.44,96
+P019,Tomatoes,Vegetables,8,12,9.85,240
+P020,Mushrooms,Vegetables,0,4,23.51,168
+P003,Cheddar Cheese,Dairy,2,6,18.91,168
+P010,Shrimp (Frozen),Seafood,-18,-15,3.9,96
